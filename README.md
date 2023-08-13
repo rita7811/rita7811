@@ -1,4 +1,35 @@
-### Hi there 👋
+#### Hi there 👋
+
+I'm **Rita**. 
+It is pleasure to see you visiting my GitHub!
+
+I'm a full-stack developer 👩‍💻 residing in the USA 🇺🇸.
+
+🔗 Here is my [portfolio website](https://rita7811.github.io/)
+
+
+<details>
+<summary>My top programming languages</summary>
+  
+| Rank | Top Languages |
+|-----:|---------------|
+|     1|            SQL|
+|     2|             C#|
+|     3|           HTML|
+
+</details>
+
+---
+🗂️ information based on Github
+
+<a href="https://github.com/rita7811/convoychat">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rita7811&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/rita7811/github-readme-stats">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=rita7811&count_private=truea&hide_rank=true" />
+</a>
+
+
 
 <!--
 **rita7811/rita7811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
