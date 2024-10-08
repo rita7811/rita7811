@@ -5,7 +5,7 @@ It is pleasure to see you visiting my GitHub!
 
 I'm a full-stack developer 👩‍💻 residing in the USA 🇺🇸.
 
-🔗 Here is my [portfolio website](https://rita7811.github.io/)
+🔗 Here is my [portfolio website](https://simplyrita.me/)
 
 
 <details>
@@ -13,9 +13,9 @@ I'm a full-stack developer 👩‍💻 residing in the USA 🇺🇸.
   
 | Rank | Top Languages |
 |-----:|---------------|
-|     1|            SQL|
-|     2|             C#|
-|     3|           HTML|
+|     1|     JavaScript|
+|     2|     TypeScript|
+|     3|             C#|
 
 </details>
 
