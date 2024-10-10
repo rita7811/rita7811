@@ -5,8 +5,9 @@ It is pleasure to see you visiting my GitHub!
 
 I'm a full-stack developer 👩‍💻 residing in the USA 🇺🇸.
 
-🔗 Here is my [portfolio website](https://simplyrita.me/)
+🔗 Here is my [Portfolio Website](https://simplyrita.me)
 
+🔗 Here is my [Medium Profile](https://medium.com/@simplyrita)
 
 <details>
 <summary>My top programming languages</summary>
